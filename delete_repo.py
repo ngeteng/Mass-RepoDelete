@@ -15,7 +15,7 @@ if not TOKEN:
 API_URL = 'https://api.github.com'
 
 # Ganti dengan username atau organisasi pemilik repository
-OWNER = '0x0062'
+OWNER = '0x062'
 
 # Nama file untuk menyimpan daftar repository
 REPOS_FILE = 'repos.txt'
