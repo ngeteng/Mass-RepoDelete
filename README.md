@@ -95,7 +95,3 @@ This tool **permanently deletes** repositories. Double-check your `repos.txt` be
 Feel free to submit issues or pull requests. All contributions are welcome!
 
 ---
-
-<p align="center">
-  <img src="https://via.placeholder.com/200?text=Thank+You" alt="Thank You" width="200"/>
-</p>
