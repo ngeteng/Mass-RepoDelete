@@ -60,10 +60,6 @@ A Python script to **fetch** and **bulk delete** repositories from your GitHub a
    python3 delete_repos.py
    ```
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x400?text=Terminal+Screenshot" alt="Terminal Screenshot" width="600"/>
-</p>
-
 ## 📂 Example Workflow
 
 ### 1. Fetch repositories
