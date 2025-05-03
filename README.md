@@ -3,10 +3,6 @@
 A Python script to **fetch** and **bulk delete** repositories from your GitHub account using your **Personal Access Token (PAT)**.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=GitHub+Repo+Manager+Banner" alt="Repo Manager Banner" width="800"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/yourname/repo-manager/actions">
     <img src="https://img.shields.io/github/workflow/status/yourname/repo-manager/CI?label=Build&logo=github" alt="Build Status" />
   </a>
